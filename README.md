@@ -1,16 +1,16 @@
 # RimShot
 
-Dikey ekranda oynanan, Unity ile yapılmış bir raket-basketbol mobil oyunu. Topu raketle sektir, potadan geçir.
-Üç bölüm ve skor tablolu sonsuz mod var.
+A portrait mobile paddle-basketball game made with Unity. Bounce the ball off your paddle and sink it through the hoop.
+Three levels, plus an endless mode with an online leaderboard.
 
-## İndir
+## Download
 
-**[RimShot.apk](https://github.com/sametkocamans/RimShot/releases/latest/download/RimShot.apk)** (Android, 62 MB)
+**[RimShot.apk](https://github.com/sametkocamans/RimShot/releases/latest/download/RimShot.apk)** (Android, ~62 MB)
 
-## Kurulum
+## Install
 
-1. Yukarıdaki linki telefonda aç ve APK'yı indir.
-2. İndirilen dosyaya dokun. Android sorarsa bu kaynaktan uygulama yüklemeye izin ver.
-3. Kurulum bitince RimShot'ı aç.
+1. Open the link above on your phone and download the APK.
+2. Tap the downloaded file. If Android asks, allow installing apps from this source.
+3. When the install finishes, open RimShot.
 
-Android 7.1 veya üstü, 64-bit (arm64) bir cihaz gerekir.
+Requires Android 7.1 or later on a 64-bit (arm64) device.
