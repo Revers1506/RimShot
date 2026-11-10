@@ -5,7 +5,7 @@ Three levels, plus an endless mode with an online leaderboard.
 
 ## Download
 
-**[RimShot.apk](https://github.com/sametkocamans/RimShot/releases/latest/download/RimShot.apk)** (Android, ~62 MB)
+**[RimShot.apk](https://github.com/sametkocamans/RimShot/releases/latest/download/RimShot.apk)** (Android, ~46 MB)
 
 ## Install
 
